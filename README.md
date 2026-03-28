@@ -121,4 +121,4 @@ restaurant-sales-dashboard/
 Ethan Long  
 Aspiring Data Analyst  
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/ethan-long-652165289/)
